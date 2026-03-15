@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f4f6f8;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #1e90ff;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+p, li {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+.contact {
+    color: #555;
+    margin-bottom: 20px;
+}
