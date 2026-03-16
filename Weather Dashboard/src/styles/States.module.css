@@ -1,0 +1,6 @@
+.box      { text-align: center; padding: 2.5rem 1rem; }
+.spinner  { width: 28px; height: 28px; border: 2.5px solid #eee; border-top-color: #888; border-radius: 50%; animation: spin 0.7s linear infinite; margin: 0 auto 12px; }
+.text     { font-size: 14px; color: #888; }
+.errorBox { background: #fff5f5; border: 1px solid #fca5a5; border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+.errorText{ font-size: 14px; color: #dc2626; }
+@keyframes spin { to { transform: rotate(360deg); } }
