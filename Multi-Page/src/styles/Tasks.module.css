@@ -1,0 +1,14 @@
+.heading   { font-size: 1.4rem; font-weight: 600; margin-bottom: 6px; }
+.sub       { font-size: 14px; color: #888; margin-bottom: 1.5rem; }
+.stats     { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 1.5rem; }
+.stat      { background: #f5f5f5; border-radius: 8px; padding: 12px; }
+.statLabel { font-size: 12px; color: #888; margin-bottom: 4px; }
+.statValue { font-size: 20px; font-weight: 600; }
+.inputRow  { display: flex; gap: 8px; margin-bottom: 1rem; }
+.input     { flex: 1; height: 38px; padding: 0 12px; font-size: 14px; border: 1px solid #ccc; border-radius: 8px; outline: none; }
+.addBtn    { height: 38px; padding: 0 14px; font-size: 13px; border: 1px solid #ccc; border-radius: 8px; background: #fff; cursor: pointer; }
+.taskItem  { display: flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e5e5; border-radius: 10px; margin-bottom: 8px; }
+.done      { opacity: 0.5; }
+.taskText  { flex: 1; font-size: 14px; }
+.done .taskText { text-decoration: line-through; }
+.delBtn    { background: none; border: none; color: #aaa; cursor: pointer; font-size: 14px; }

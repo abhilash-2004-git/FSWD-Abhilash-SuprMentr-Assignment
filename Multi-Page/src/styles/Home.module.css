@@ -1,0 +1,7 @@
+.heading   { font-size: 1.4rem; font-weight: 600; margin-bottom: 6px; }
+.sub       { font-size: 14px; color: #888; margin-bottom: 1.5rem; }
+.grid      { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.card      { background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px; cursor: pointer; }
+.card:hover{ background: #fafafa; }
+.cardTitle { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+.cardDesc  { font-size: 13px; color: #888; }

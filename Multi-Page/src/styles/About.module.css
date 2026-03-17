@@ -1,0 +1,9 @@
+.heading   { font-size: 1.4rem; font-weight: 600; margin-bottom: 6px; }
+.sub       { font-size: 14px; color: #888; margin-bottom: 1.5rem; }
+.card      { background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; margin-bottom: 12px; }
+.cardTitle { font-size: 14px; font-weight: 600; margin-bottom: 12px; }
+.routeRow  { display: flex; align-items: center; gap: 12px; padding: 6px 0; border-top: 1px solid #f0f0f0; }
+.path      { font-size: 12px; font-family: monospace; color: #888; min-width: 80px; }
+.desc      { font-size: 13px; color: #444; }
+.badges    { display: flex; flex-wrap: wrap; gap: 8px; }
+.badge     { font-size: 12px; padding: 4px 10px; border-radius: 999px; background: #eff6ff; color: #1d4ed8; }
